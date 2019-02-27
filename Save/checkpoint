@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/singhals/hdd/Autonomus car/Practice/Save/model.ckpt"
+all_model_checkpoint_paths: "/media/singhals/hdd/Autonomus car/Practice/Save/model.ckpt"
